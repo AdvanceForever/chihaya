@@ -97,6 +97,10 @@ Configuration of Chihaya is done via one YAML configuration file.
 The `dist/` directory contains an example configuration file.
 Files and directories under `docs/` contain detailed information about configuring middleware, storage implementations, architecture etc.
 
+Chihaya的配置是通过一个YAML配置文件完成的。
+“dist/”目录包含一个示例配置文件。
+“docs/”下的文件和目录包含有关配置中间件、存储实现、体系结构等的详细信息。
+
 ## Related projects
 
 - [BitTorrent.org](https://github.com/bittorrent/bittorrent.org): a static website containing the BitTorrent spec and all BEPs
